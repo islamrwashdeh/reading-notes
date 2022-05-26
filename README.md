@@ -8,5 +8,5 @@
 
   | Tobic  |
 | -------------| 
-| [SQL summry](reading-notes/not-sql/sql.md)  |  
-| Content Cell | 
+| [SQL summry](https://github.com/islamrwashdeh/reading-notes/blob/main/not-sql/sql.md)  |  
+|null | 
