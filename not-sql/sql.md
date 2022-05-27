@@ -96,9 +96,10 @@ to delet data from database
 we use **CREATE TABLE** to creat new table 
 before creat table you have to be sure that if theres table with the same name or not  use **IF NOT EXISTS**       
 
+# resources
+[SQLBolt](https://sqlbolt.com/)      
 
-
-    
+[SQLBolt exercise solutions](https://github.com/islamrwashdeh/reading-notes/tree/main/not-sql/pic)
 
 
 
