@@ -13,6 +13,6 @@
 | -------------| 
 | [SQL summry](https://github.com/islamrwashdeh/reading-notes/blob/main/not-sql/sql.md)  |  
 |[Command Line](commandline/command.md)| 
-|[class01 reed nots](/home/salma147/nots/reading-notes/commandline/command.md)|    
+|[class01 reed nots](https://github.com/islamrwashdeh/reading-notes/blob/main/commandline/Class%2001%20-%20TDD.md)|    
 
 
