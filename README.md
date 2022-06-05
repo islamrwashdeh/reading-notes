@@ -11,10 +11,11 @@
 
   | Tobic  |
 | -------------| 
-| [SQL summry](https://github.com/islamrwashdeh/reading-notes/blob/main/not-sql/sql.md)  |  
+| [SQL summry](https://github.com/islamrwashdeh/reading-notes/blob/main/not-sql/sql.md)  | 
 |[Command Line](commandline/command.md)| 
 |[class01 reed nots](https://github.com/islamrwashdeh/reading-notes/blob/main/commandline/Class%2001%20-%20TDD.md)|       
 |[Express REST API](https://github.com/islamrwashdeh/reading-notes/blob/main/class02/Express%20REST%20API.md)| 
 |[Linked Lists](/cls02%20-cls03/Linked%20Lists.md)| 
+| [Data Modeling](/cls02%20-cls03/Data%20Modeling.md)| 
 
 
