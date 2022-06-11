@@ -56,7 +56,7 @@ to see the all commands follow this link
  [node.bcrypt.js](https://www.npmjs.com/package/bcrypt)
 
 
-# sreources
+# resources
 
 [Securing Passwords](https://thehackernews.com/2014/04/securing-passwords-with-bcrypt-hashing.html)    
 
